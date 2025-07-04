@@ -1,4 +1,4 @@
-This is a personal project to learn the following skills:
+[Work in progress] This is a personal project to learn the following skills:
 
 1. Working with hardware - Arduino and Sensors
 2. Designing a PCB
